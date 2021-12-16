@@ -1,4 +1,4 @@
-#To tun any of the requirements file the following steps should be taken in consideration
+# To open any of the requirements file the following steps should be taken in consideration
 
 ## If you don't have gcc, make, or qemu emulator
 
